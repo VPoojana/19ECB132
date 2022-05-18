@@ -6,3 +6,5 @@
 [calculator](calculator)
 
 [fibanocci numbers](fibonacci numbers)
+
+[matrix](matrix.c)
